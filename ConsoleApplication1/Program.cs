@@ -29,6 +29,8 @@ namespace ConsoleApplication1
             int mult = a * b;
 
             int subtracao = a - b;
+
+            int div = a / b;
         }
     }
 }
