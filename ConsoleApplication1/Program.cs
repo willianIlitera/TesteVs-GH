@@ -12,6 +12,8 @@ namespace ConsoleApplication1
         {
             string frase = "6am";
             Console.WriteLine(frase);
+
+            string fraseDois = "6:47am";
         }
     }
 }
