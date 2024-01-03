@@ -19,6 +19,8 @@ namespace ConsoleApplication1
 
             string fraseQuatro = "Make America Great Again";
             string teste = "testando";
+
+            int b = 2;
         }
     }
 }
