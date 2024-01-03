@@ -14,6 +14,8 @@ namespace ConsoleApplication1
             Console.WriteLine(frase);
 
             string fraseDois = "6:47am";
+
+            string fraseTres;
         }
     }
 }
