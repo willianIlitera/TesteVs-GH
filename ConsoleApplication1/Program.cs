@@ -21,6 +21,8 @@ namespace ConsoleApplication1
             string teste = "testando";
 
             int b = 2;
+
+            int soma = a + b;
         }
     }
 }
