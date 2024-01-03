@@ -15,7 +15,7 @@ namespace ConsoleApplication1
 
             string fraseDois = "6:47am";
 
-            string fraseTres;
+            string fraseTres = "Crashando para teste";
             string fraseQuatro = "Make America Great Again";
         }
     }
