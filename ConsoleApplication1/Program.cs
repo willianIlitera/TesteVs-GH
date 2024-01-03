@@ -20,6 +20,8 @@ namespace ConsoleApplication1
             string fraseQuatro = "Make America Great Again";
             string teste = "testando";
 
+            int a = 3;
+
             int b = 2;
 
             int soma = a + b;
