@@ -35,6 +35,7 @@ namespace ConsoleApplication1
             string pullReq = "Ajustando Pull Request";
 
             string teste = "teste";
+            string novoCommit = "Fiz um novo commit";
         }
     }
 }
