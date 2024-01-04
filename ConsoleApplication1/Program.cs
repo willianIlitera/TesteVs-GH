@@ -33,6 +33,8 @@ namespace ConsoleApplication1
             int div = a / b;
 
             string pullReq = "Ajustando Pull Request";
+
+            string teste = "teste";
         }
     }
 }
