@@ -36,7 +36,7 @@ namespace ConsoleApplication1
 
             string teste = "teste";
             string novoCommit = "Fiz um novo commit";
-            strig testeCommitPush = "testando";
+            string testeCommitPush = "testando";
         }
     }
 }
